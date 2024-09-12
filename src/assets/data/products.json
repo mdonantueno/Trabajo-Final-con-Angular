@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Chocolate", "price": 100, "description": "Delicioso chocolate." },
+  { "id": 2, "name": "Gaseosa", "price": 80, "description": "Refrescante gaseosa." },
+  { "id": 3, "name": "Alfajor", "price": 50, "description": "Rico alfajor." }
+]

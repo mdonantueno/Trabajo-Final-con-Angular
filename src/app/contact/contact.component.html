@@ -1,0 +1,4 @@
+<form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+  <label for="name">Nombre:</label>
+  <input id="name" formControlName="name">
+  <div *ngIf="contactForm.controls.name.invalid && contactForm.controls.name
